@@ -1,0 +1,29 @@
+"Cluster","Description","qvalue","GeneRatio","BgRatio","Count","FE"
+"Cluster 1","Peroxisome",0.00475015923483363,"16/250","74/3389",16,2.93102702702703
+"Cluster 1","ABC transporters",0.0102041624238882,"8/250","25/3389",8,4.33792
+"Cluster 1","Phagosome",0.0125868610121852,"13/250","63/3389",13,2.79726984126984
+"Cluster 1","Glycerophospholipid metabolism",0.038634862049091,"11/250","56/3389",11,2.66278571428571
+"Cluster 2","FoxO signaling pathway",9.89402670441902e-07,"19/248","59/3389",19,4.40069710224166
+"Cluster 2","Basal transcription factors",2.38559522292495e-05,"13/248","36/3389",13,4.93469982078853
+"Cluster 2","Longevity regulating pathway - multiple species",4.67332738319797e-05,"14/248","45/3389",14,4.25143369175627
+"Cluster 2","Autophagy - animal",0.000109552571742446,"19/248","84/3389",19,3.0909658218126
+"Cluster 2","Autophagy - other",0.000383997216589216,"9/248","24/3389",9,5.12449596774194
+"Cluster 3","Proteasome",1.43221025835131e-12,"19/183","41/3389",19,8.58203385312542
+"Cluster 3","Lysosome",4.07481022760349e-06,"20/183","99/3389",20,3.74123751172931
+"Cluster 3","Metabolism of xenobiotics by cytochrome P450",7.84552607388662e-06,"12/183","39/3389",12,5.69819251786465
+"Cluster 3","Glutathione metabolism",6.8180357809918e-05,"12/183","48/3389",12,4.62978142076503
+"Cluster 3","Drug metabolism - cytochrome P450",0.000107460327800124,"11/183","43/3389",11,4.73745075613166
+"Cluster 4","Neuroactive ligand-receptor interaction",4.16459986997992e-06,"11/143","35/3389",11,7.44835164835165
+"Cluster 4","Calcium signaling pathway",0.0010442338501387,"10/143","52/3389",10,4.5575578267886
+"Cluster 4","Drug metabolism - cytochrome P450",0.00527295057689721,"8/143","43/3389",8,4.40917222312571
+"Cluster 4","Longevity regulating pathway - worm",0.0277337708733037,"9/143","71/3389",9,3.00413670836206
+"Cluster 4","Sphingolipid metabolism",0.0277337708733037,"6/143","35/3389",6,4.06273726273726
+"Cluster 5","Carbon metabolism",3.49152846598491e-11,"34/283","105/3389",34,3.87770486286387
+"Cluster 5","Valine, leucine and isoleucine degradation",1.34017687149544e-07,"19/283","50/3389",19,4.55060070671378
+"Cluster 5","Protein processing in endoplasmic reticulum",4.30778958355589e-07,"32/283","136/3389",32,2.81770941592185
+"Cluster 5","Glyoxylate and dicarboxylate metabolism",4.30778958355589e-07,"15/283","35/3389",15,5.13225643614336
+"Cluster 5","Fatty acid degradation",5.35502273952838e-07,"18/283","51/3389",18,4.22656412388277
+"Cluster 6","Ribosome",4.42018548538869e-54,"88/316","149/3389",88,6.33404128791097
+"Cluster 6","Oxidative phosphorylation",2.19401071120446e-21,"49/316","111/3389",49,4.73431976280078
+"Cluster 6","Spliceosome",3.6313729067747e-09,"34/316","112/3389",34,3.2557075045208
+"Cluster 6","RNA polymerase",0.0295933802586619,"8/316","25/3389",8,3.43189873417722

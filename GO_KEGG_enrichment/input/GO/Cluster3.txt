@@ -1,0 +1,84 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (release 20170413)
+Annotation Version and Release Date:	GO Ontology database  Released 2017-04-24
+Analyzed List:	upload_1 (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Bonferroni correction:	true
+Bonferroni count:	2255
+GO biological process complete	Caenorhabditis elegans - REFLIST (20452)	upload_1 (1043)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+fatty acid biosynthetic process (GO:0006633)	40	13	2.04	+	6.37	5.52E-04
+monocarboxylic acid biosynthetic process (GO:0072330)	47	13	2.40	+	5.42	3.25E-03
+small molecule catabolic process (GO:0044282)	110	22	5.61	+	3.92	2.56E-04
+fatty acid metabolic process (GO:0006631)	105	21	5.35	+	3.92	4.93E-04
+organic acid biosynthetic process (GO:0016053)	102	18	5.20	+	3.46	1.91E-02
+carboxylic acid biosynthetic process (GO:0046394)	102	18	5.20	+	3.46	1.91E-02
+cellular carbohydrate metabolic process (GO:0044262)	107	18	5.46	+	3.30	3.58E-02
+coenzyme metabolic process (GO:0006732)	123	20	6.27	+	3.19	2.02E-02
+single-organism catabolic process (GO:0044712)	285	46	14.53	+	3.16	5.27E-08
+monocarboxylic acid metabolic process (GO:0032787)	220	35	11.22	+	3.12	1.81E-05
+proteolysis involved in cellular protein catabolic process (GO:0051603)	254	40	12.95	+	3.09	2.10E-06
+cellular protein catabolic process (GO:0044257)	256	40	13.06	+	3.06	2.61E-06
+small molecule biosynthetic process (GO:0044283)	136	21	6.94	+	3.03	2.61E-02
+ubiquitin-dependent protein catabolic process (GO:0006511)	178	25	9.08	+	2.75	1.99E-02
+modification-dependent protein catabolic process (GO:0019941)	179	25	9.13	+	2.74	2.19E-02
+lipid metabolic process (GO:0006629)	405	56	20.65	+	2.71	1.26E-07
+carbohydrate metabolic process (GO:0005975)	350	48	17.85	+	2.69	3.87E-06
+modification-dependent macromolecule catabolic process (GO:0043632)	184	25	9.38	+	2.66	3.44E-02
+organonitrogen compound catabolic process (GO:1901565)	541	71	27.59	+	2.57	3.45E-09
+carboxylic acid metabolic process (GO:0019752)	404	53	20.60	+	2.57	2.49E-06
+innate immune response (GO:0045087)	307	40	15.66	+	2.55	3.24E-04
+cellular catabolic process (GO:0044248)	595	77	30.34	+	2.54	7.49E-10
+immune response (GO:0006955)	311	40	15.86	+	2.52	4.49E-04
+defense response (GO:0006952)	415	53	21.16	+	2.50	6.10E-06
+single-organism carbohydrate metabolic process (GO:0044723)	221	28	11.27	+	2.48	3.80E-02
+immune system process (GO:0002376)	318	40	16.22	+	2.47	7.83E-04
+organic acid metabolic process (GO:0006082)	427	53	21.78	+	2.43	1.56E-05
+oxoacid metabolic process (GO:0043436)	427	53	21.78	+	2.43	1.56E-05
+organic substance catabolic process (GO:1901575)	783	97	39.93	+	2.43	7.35E-12
+cellular lipid metabolic process (GO:0044255)	284	35	14.48	+	2.42	6.46E-03
+protein catabolic process (GO:0030163)	399	49	20.35	+	2.41	7.93E-05
+catabolic process (GO:0009056)	835	100	42.58	+	2.35	2.11E-11
+cellular macromolecule catabolic process (GO:0044265)	343	41	17.49	+	2.34	2.00E-03
+proteolysis (GO:0006508)	600	69	30.60	+	2.26	1.87E-06
+oxidation-reduction process (GO:0055114)	606	66	30.90	+	2.14	3.43E-05
+single-organism metabolic process (GO:0044710)	1667	175	85.01	+	2.06	2.71E-16
+small molecule metabolic process (GO:0044281)	721	74	36.77	+	2.01	4.97E-05
+macromolecule catabolic process (GO:0009057)	536	55	27.33	+	2.01	3.29E-03
+determination of adult lifespan (GO:0008340)	894	77	45.59	+	1.69	1.90E-02
+multicellular organism aging (GO:0010259)	894	77	45.59	+	1.69	1.90E-02
+aging (GO:0007568)	896	77	45.69	+	1.69	2.05E-02
+metabolic process (GO:0008152)	4926	311	251.21	+	1.24	3.06E-02
+Unclassified (UNCLASSIFIED)	9307	438	474.63	-	.92	0.00E00
+response to stimulus (GO:0050896)	3287	119	167.63	-	.71	2.65E-02
+regulation of biological process (GO:0050789)	4232	146	215.82	-	.68	3.42E-05
+heterocycle metabolic process (GO:0046483)	1726	53	88.02	-	.60	4.53E-02
+regulation of cellular process (GO:0050794)	3568	106	181.96	-	.58	5.80E-08
+regulation of gene expression (GO:0010468)	1330	37	67.83	-	.55	4.27E-02
+nucleobase-containing compound metabolic process (GO:0006139)	1676	46	85.47	-	.54	2.10E-03
+regulation of macromolecule biosynthetic process (GO:0010556)	1092	28	55.69	-	.50	4.81E-02
+cellular response to stimulus (GO:0051716)	2303	59	117.45	-	.50	6.67E-07
+cell communication (GO:0007154)	2065	49	105.31	-	.47	2.95E-07
+signal transduction (GO:0007165)	1949	46	99.39	-	.46	8.61E-07
+single organism signaling (GO:0044700)	2035	47	103.78	-	.45	1.39E-07
+signaling (GO:0023052)	2037	47	103.88	-	.45	1.30E-07
+gene expression (GO:0010467)	1353	25	69.00	-	.36	8.46E-07
+RNA metabolic process (GO:0016070)	1180	20	60.18	-	.33	1.72E-06
+nucleic acid metabolic process (GO:0090304)	1405	22	71.65	-	.31	4.06E-09
+protein phosphorylation (GO:0006468)	450	5	22.95	-	.22	1.39E-02
+G-protein coupled receptor signaling pathway (GO:0007186)	781	8	39.83	-	.20	1.34E-06
+system process (GO:0003008)	944	9	48.14	-	 < 0.2	6.08E-09
+single-organism behavior (GO:0044708)	432	4	22.03	-	 < 0.2	6.17E-03
+chemosensory behavior (GO:0007635)	330	2	16.83	-	 < 0.2	1.59E-02
+detection of chemical stimulus (GO:0009593)	588	3	29.99	-	 < 0.2	7.44E-07
+detection of stimulus (GO:0051606)	615	3	31.36	-	 < 0.2	2.06E-07
+sensory perception of chemical stimulus (GO:0007606)	773	3	39.42	-	 < 0.2	9.80E-11
+sensory perception (GO:0007600)	800	3	40.80	-	 < 0.2	2.60E-11
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	281	1	14.33	-	 < 0.2	1.89E-02
+neurological system process (GO:0050877)	856	3	43.65	-	 < 0.2	1.63E-12
+RNA processing (GO:0006396)	400	1	20.40	-	 < 0.2	5.56E-05
+detection of chemical stimulus involved in sensory perception (GO:0050907)	582	1	29.68	-	 < 0.2	5.96E-09
+detection of stimulus involved in sensory perception (GO:0050906)	588	1	29.99	-	 < 0.2	4.39E-09

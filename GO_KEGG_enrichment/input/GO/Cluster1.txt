@@ -1,0 +1,221 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (release 20170413)
+Annotation Version and Release Date:	GO Ontology database  Released 2017-04-24
+Analyzed List:	upload_1 (Caenorhabditis elegans)
+Reference List:	Caenorhabditis elegans (all genes in database)
+Bonferroni correction:	true
+Bonferroni count:	2255
+GO biological process complete	Caenorhabditis elegans - REFLIST (20452)	upload_1 (1086)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+extracellular structure organization (GO:0043062)	14	7	.74	+	9.42	2.89E-02
+muscle system process (GO:0003012)	39	16	2.07	+	7.73	1.63E-06
+ATP hydrolysis coupled proton transport (GO:0015991)	22	9	1.17	+	7.70	8.63E-03
+energy coupled proton transmembrane transport, against electrochemical gradient (GO:0015988)	22	9	1.17	+	7.70	8.63E-03
+regulation of neurotransmitter secretion (GO:0046928)	20	8	1.06	+	7.53	3.47E-02
+regulation of neurotransmitter transport (GO:0051588)	20	8	1.06	+	7.53	3.47E-02
+muscle contraction (GO:0006936)	38	15	2.02	+	7.43	9.12E-06
+regulation of secretion (GO:0051046)	49	15	2.60	+	5.77	2.42E-04
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462)	36	11	1.91	+	5.75	1.19E-02
+maturation of SSU-rRNA (GO:0030490)	46	14	2.44	+	5.73	6.81E-04
+regulation of pH (GO:0006885)	41	12	2.18	+	5.51	6.96E-03
+monovalent inorganic cation homeostasis (GO:0055067)	43	12	2.28	+	5.26	1.12E-02
+regulation of secretion by cell (GO:1903530)	40	11	2.12	+	5.18	3.14E-02
+ribosomal small subunit biogenesis (GO:0042274)	62	16	3.29	+	4.86	8.79E-04
+ATP hydrolysis coupled transmembrane transport (GO:0090662)	48	12	2.55	+	4.71	3.30E-02
+modulation of synaptic transmission (GO:0050804)	48	12	2.55	+	4.71	3.30E-02
+ATP hydrolysis coupled cation transmembrane transport (GO:0099132)	48	12	2.55	+	4.71	3.30E-02
+ATP hydrolysis coupled ion transmembrane transport (GO:0099131)	48	12	2.55	+	4.71	3.30E-02
+sodium ion transport (GO:0006814)	74	18	3.93	+	4.58	3.98E-04
+hydrogen ion transmembrane transport (GO:1902600)	70	17	3.72	+	4.57	8.84E-04
+inorganic ion homeostasis (GO:0098771)	102	24	5.42	+	4.43	7.16E-06
+ion homeostasis (GO:0050801)	104	24	5.52	+	4.35	1.03E-05
+cation homeostasis (GO:0055080)	100	23	5.31	+	4.33	2.28E-05
+cellular ion homeostasis (GO:0006873)	85	19	4.51	+	4.21	6.50E-04
+cellular cation homeostasis (GO:0030003)	82	18	4.35	+	4.13	1.71E-03
+proton transport (GO:0015992)	87	19	4.62	+	4.11	9.16E-04
+hydrogen transport (GO:0006818)	88	19	4.67	+	4.07	1.08E-03
+chemical homeostasis (GO:0048878)	154	33	8.18	+	4.04	9.46E-08
+cellular chemical homeostasis (GO:0055082)	99	21	5.26	+	3.99	3.68E-04
+rRNA processing (GO:0006364)	132	28	7.01	+	3.99	3.44E-06
+regulation of ion transport (GO:0043269)	67	14	3.56	+	3.94	4.77E-02
+ncRNA processing (GO:0034470)	199	41	10.57	+	3.88	1.45E-09
+ncRNA metabolic process (GO:0034660)	205	41	10.89	+	3.77	3.63E-09
+rRNA metabolic process (GO:0016072)	140	28	7.43	+	3.77	1.20E-05
+ribosome biogenesis (GO:0042254)	193	38	10.25	+	3.71	3.69E-08
+organic anion transport (GO:0015711)	116	22	6.16	+	3.57	1.21E-03
+striated muscle myosin thick filament assembly (GO:0071688)	144	26	7.65	+	3.40	2.97E-04
+myosin filament assembly (GO:0031034)	145	26	7.70	+	3.38	3.39E-04
+myosin filament organization (GO:0031033)	145	26	7.70	+	3.38	3.39E-04
+muscle structure development (GO:0061061)	207	37	10.99	+	3.37	9.38E-07
+muscle cell development (GO:0055001)	169	30	8.97	+	3.34	4.80E-05
+muscle cell differentiation (GO:0042692)	183	32	9.72	+	3.29	2.32E-05
+myofibril assembly (GO:0030239)	161	28	8.55	+	3.28	2.11E-04
+striated muscle cell development (GO:0055002)	167	29	8.87	+	3.27	1.29E-04
+cellular component assembly involved in morphogenesis (GO:0010927)	162	28	8.60	+	3.25	2.39E-04
+RNA processing (GO:0006396)	400	69	21.24	+	3.25	1.44E-13
+striated muscle cell differentiation (GO:0051146)	169	29	8.97	+	3.23	1.66E-04
+ribonucleoprotein complex biogenesis (GO:0022613)	257	44	13.65	+	3.22	8.20E-08
+actomyosin structure organization (GO:0031032)	166	28	8.81	+	3.18	3.88E-04
+monovalent inorganic cation transport (GO:0015672)	238	40	12.64	+	3.17	1.07E-06
+inorganic cation transmembrane transport (GO:0098662)	291	48	15.45	+	3.11	3.71E-08
+receptor-mediated endocytosis (GO:0006898)	724	119	38.44	+	3.10	2.00E-23
+cation transport (GO:0006812)	393	63	20.87	+	3.02	8.48E-11
+cation transmembrane transport (GO:0098655)	332	52	17.63	+	2.95	3.38E-08
+homeostatic process (GO:0042592)	243	38	12.90	+	2.94	1.92E-05
+cellular homeostasis (GO:0019725)	155	24	8.23	+	2.92	1.20E-02
+metal ion transport (GO:0030001)	259	40	13.75	+	2.91	1.10E-05
+endocytosis (GO:0006897)	850	129	45.13	+	2.86	1.49E-22
+cellular protein complex assembly (GO:0043623)	253	38	13.43	+	2.83	5.40E-05
+regulation of transport (GO:0051049)	214	32	11.36	+	2.82	7.41E-04
+posttranscriptional gene silencing (GO:0016441)	161	24	8.55	+	2.81	2.21E-02
+posttranscriptional gene silencing by RNA (GO:0035194)	161	24	8.55	+	2.81	2.21E-02
+anatomical structure formation involved in morphogenesis (GO:0048646)	222	33	11.79	+	2.80	5.56E-04
+ion transport (GO:0006811)	735	109	39.03	+	2.79	7.28E-18
+actin filament-based process (GO:0030029)	230	34	12.21	+	2.78	4.17E-04
+actin cytoskeleton organization (GO:0030036)	225	33	11.95	+	2.76	7.46E-04
+positive regulation of multicellular organism growth (GO:0040018)	346	50	18.37	+	2.72	1.23E-06
+inorganic ion transmembrane transport (GO:0098660)	367	53	19.49	+	2.72	3.81E-07
+transmembrane transport (GO:0055085)	855	123	45.40	+	2.71	1.93E-19
+positive regulation of developmental growth (GO:0048639)	356	51	18.90	+	2.70	1.10E-06
+supramolecular fiber organization (GO:0097435)	238	34	12.64	+	2.69	8.94E-04
+ion transmembrane transport (GO:0034220)	542	77	28.78	+	2.68	5.76E-11
+vesicle-mediated transport (GO:0016192)	1022	145	54.27	+	2.67	6.49E-23
+translation (GO:0006412)	269	38	14.28	+	2.66	2.50E-04
+regulation of gene expression, epigenetic (GO:0040029)	201	28	10.67	+	2.62	1.45E-02
+peptide biosynthetic process (GO:0043043)	274	38	14.55	+	2.61	3.92E-04
+positive regulation of growth (GO:0045927)	375	52	19.91	+	2.61	2.22E-06
+regulation of multicellular organism growth (GO:0040014)	374	51	19.86	+	2.57	5.54E-06
+cellular component morphogenesis (GO:0032989)	338	46	17.95	+	2.56	3.54E-05
+mRNA metabolic process (GO:0016071)	229	31	12.16	+	2.55	8.37E-03
+positive regulation of multicellular organismal process (GO:0051240)	503	68	26.71	+	2.55	1.71E-08
+cellular lipid metabolic process (GO:0044255)	284	38	15.08	+	2.52	9.29E-04
+amide biosynthetic process (GO:0043604)	301	40	15.98	+	2.50	5.51E-04
+regulation of developmental growth (GO:0048638)	411	54	21.82	+	2.47	6.61E-06
+positive regulation of developmental process (GO:0051094)	481	63	25.54	+	2.47	3.55E-07
+protein complex assembly (GO:0006461)	316	41	16.78	+	2.44	7.19E-04
+protein complex biogenesis (GO:0070271)	317	41	16.83	+	2.44	7.79E-04
+regulation of growth (GO:0040008)	433	55	22.99	+	2.39	1.47E-05
+protein complex subunit organization (GO:0071822)	341	43	18.11	+	2.37	7.88E-04
+localization of cell (GO:0051674)	303	38	16.09	+	2.36	4.22E-03
+cell motility (GO:0048870)	303	38	16.09	+	2.36	4.22E-03
+posttranscriptional regulation of gene expression (GO:0010608)	264	33	14.02	+	2.35	2.09E-02
+cellular macromolecular complex assembly (GO:0034622)	417	52	22.14	+	2.35	6.79E-05
+oviposition (GO:0018991)	346	43	18.37	+	2.34	1.15E-03
+cell migration (GO:0016477)	298	37	15.82	+	2.34	7.17E-03
+peptide metabolic process (GO:0006518)	347	43	18.43	+	2.33	1.24E-03
+transport (GO:0006810)	2305	285	122.40	+	2.33	4.56E-39
+development of primary sexual characteristics (GO:0045137)	968	119	51.40	+	2.32	1.43E-13
+gonad development (GO:0008406)	968	119	51.40	+	2.32	1.43E-13
+establishment of localization (GO:0051234)	2394	294	127.12	+	2.31	4.91E-40
+reproductive system development (GO:0061458)	983	120	52.20	+	2.30	1.72E-13
+reproductive structure development (GO:0048608)	983	120	52.20	+	2.30	1.72E-13
+carboxylic acid metabolic process (GO:0019752)	404	49	21.45	+	2.28	3.80E-04
+regulation of localization (GO:0032879)	376	45	19.97	+	2.25	1.71E-03
+animal organ development (GO:0048513)	1115	133	59.21	+	2.25	1.86E-14
+sex differentiation (GO:0007548)	1051	125	55.81	+	2.24	2.52E-13
+cell development (GO:0048468)	879	104	46.67	+	2.23	1.63E-10
+larval development (GO:0002164)	2075	243	110.18	+	2.21	1.34E-28
+organic acid metabolic process (GO:0006082)	427	50	22.67	+	2.21	7.89E-04
+oxoacid metabolic process (GO:0043436)	427	50	22.67	+	2.21	7.89E-04
+cellular amide metabolic process (GO:0043603)	393	46	20.87	+	2.20	2.33E-03
+nematode larval development (GO:0002119)	2071	242	109.97	+	2.20	2.57E-28
+reproductive behavior (GO:0019098)	386	45	20.50	+	2.20	3.38E-03
+post-embryonic development (GO:0009791)	2095	244	111.24	+	2.19	2.17E-28
+cellular component biogenesis (GO:0044085)	816	95	43.33	+	2.19	5.14E-09
+lipid metabolic process (GO:0006629)	405	47	21.51	+	2.19	2.24E-03
+body morphogenesis (GO:0010171)	631	73	33.51	+	2.18	2.63E-06
+macromolecular complex subunit organization (GO:0043933)	521	60	27.67	+	2.17	9.48E-05
+macromolecular complex assembly (GO:0065003)	480	55	25.49	+	2.16	4.06E-04
+anatomical structure morphogenesis (GO:0009653)	1123	128	59.63	+	2.15	2.45E-12
+organic substance transport (GO:0071702)	578	65	30.69	+	2.12	6.13E-05
+system development (GO:0048731)	1452	163	77.10	+	2.11	6.31E-16
+positive regulation of biological process (GO:0048518)	1114	125	59.15	+	2.11	1.68E-11
+single-organism organelle organization (GO:1902589)	492	55	26.13	+	2.11	8.67E-04
+multicellular organismal reproductive process (GO:0048609)	913	102	48.48	+	2.10	8.10E-09
+cell differentiation (GO:0030154)	1133	126	60.16	+	2.09	2.43E-11
+localization (GO:0051179)	3112	345	165.25	+	2.09	3.81E-39
+cellular developmental process (GO:0048869)	1147	127	60.91	+	2.09	2.57E-11
+multicellular organism reproduction (GO:0032504)	932	103	49.49	+	2.08	1.17E-08
+gamete generation (GO:0007276)	563	62	29.90	+	2.07	2.63E-04
+movement of cell or subcellular component (GO:0006928)	445	49	23.63	+	2.07	5.57E-03
+hermaphrodite genitalia development (GO:0040035)	736	81	39.08	+	2.07	2.99E-06
+negative regulation of gene expression (GO:0010629)	409	45	21.72	+	2.07	1.45E-02
+genitalia development (GO:0048806)	747	82	39.67	+	2.07	2.64E-06
+developmental process involved in reproduction (GO:0003006)	1332	146	70.73	+	2.06	4.46E-13
+multi-organism process (GO:0051704)	750	82	39.82	+	2.06	3.16E-06
+single-organism transport (GO:0044765)	806	88	42.80	+	2.06	8.21E-07
+defense response (GO:0006952)	415	45	22.04	+	2.04	2.07E-02
+cytoskeleton organization (GO:0007010)	418	45	22.20	+	2.03	2.46E-02
+cellular catabolic process (GO:0044248)	595	64	31.59	+	2.03	3.71E-04
+cellular component organization or biogenesis (GO:0071840)	1904	204	101.10	+	2.02	1.48E-18
+single-organism localization (GO:1902578)	851	91	45.19	+	2.01	1.12E-06
+germ cell development (GO:0007281)	431	46	22.89	+	2.01	2.44E-02
+nitrogen compound transport (GO:0071705)	450	48	23.89	+	2.01	1.60E-02
+regulation of multicellular organismal process (GO:0051239)	847	90	44.98	+	2.00	1.91E-06
+reproduction (GO:0000003)	2872	305	152.50	+	2.00	5.05E-30
+cellular process involved in reproduction in multicellular organism (GO:0022412)	436	46	23.15	+	1.99	3.23E-02
+small molecule metabolic process (GO:0044281)	721	76	38.29	+	1.99	5.71E-05
+reproductive process (GO:0022414)	1823	191	96.80	+	1.97	4.38E-16
+organic substance catabolic process (GO:1901575)	783	82	41.58	+	1.97	2.09E-05
+sexual reproduction (GO:0019953)	669	70	35.52	+	1.97	2.70E-04
+multi-organism reproductive process (GO:0044703)	679	71	36.05	+	1.97	2.24E-04
+single organism reproductive process (GO:0044702)	1502	157	79.76	+	1.97	1.60E-12
+gene expression (GO:0010467)	1353	141	71.84	+	1.96	7.60E-11
+locomotion (GO:0040011)	1666	171	88.46	+	1.93	3.34E-13
+protein localization (GO:0008104)	521	53	27.67	+	1.92	2.00E-02
+organonitrogen compound catabolic process (GO:1901565)	541	55	28.73	+	1.91	1.39E-02
+RNA metabolic process (GO:0016070)	1180	119	62.66	+	1.90	7.34E-08
+catabolic process (GO:0009056)	835	84	44.34	+	1.89	7.75E-05
+cellular component organization (GO:0016043)	1771	177	94.04	+	1.88	1.04E-12
+embryo development (GO:0009790)	3092	308	164.19	+	1.88	1.58E-25
+embryo development ending in birth or egg hatching (GO:0009792)	3024	300	160.57	+	1.87	2.26E-24
+single-organism cellular process (GO:0044763)	3764	370	199.87	+	1.85	2.18E-31
+multicellular organism development (GO:0007275)	4542	442	241.18	+	1.83	4.06E-39
+cellular component assembly (GO:0022607)	668	65	35.47	+	1.83	8.29E-03
+anatomical structure development (GO:0048856)	4756	462	252.54	+	1.83	1.66E-41
+single-organism developmental process (GO:0044767)	4809	466	255.36	+	1.82	9.68E-42
+developmental process (GO:0032502)	4849	469	257.48	+	1.82	6.52E-42
+single-multicellular organism process (GO:0044707)	4651	449	246.97	+	1.82	4.21E-39
+regulation of developmental process (GO:0050793)	885	85	46.99	+	1.81	4.45E-04
+regulation of biological quality (GO:0065008)	1284	123	68.18	+	1.80	7.69E-07
+response to stress (GO:0006950)	1032	97	54.80	+	1.77	1.58E-04
+nucleic acid metabolic process (GO:0090304)	1405	132	74.61	+	1.77	5.49E-07
+organonitrogen compound biosynthetic process (GO:1901566)	674	63	35.79	+	1.76	3.89E-02
+negative regulation of biological process (GO:0048519)	1012	93	53.74	+	1.73	7.92E-04
+cellular nitrogen compound metabolic process (GO:0034641)	2013	184	106.89	+	1.72	8.32E-10
+organelle organization (GO:0006996)	1199	109	63.67	+	1.71	1.24E-04
+nucleobase-containing compound metabolic process (GO:0006139)	1676	150	89.00	+	1.69	7.96E-07
+heterocycle metabolic process (GO:0046483)	1726	153	91.65	+	1.67	9.95E-07
+cellular aromatic compound metabolic process (GO:0006725)	1729	152	91.81	+	1.66	2.01E-06
+organic cyclic compound metabolic process (GO:1901360)	1777	156	94.36	+	1.65	1.27E-06
+single-organism metabolic process (GO:0044710)	1667	144	88.52	+	1.63	1.79E-05
+cellular metabolic process (GO:0044237)	3934	337	208.90	+	1.61	2.87E-17
+multicellular organismal process (GO:0032501)	5553	473	294.86	+	1.60	7.27E-28
+primary metabolic process (GO:0044238)	4212	357	223.66	+	1.60	5.87E-18
+macromolecule localization (GO:0033036)	1171	99	62.18	+	1.59	1.17E-02
+organic substance metabolic process (GO:0071704)	4359	367	231.46	+	1.59	3.51E-18
+metabolic process (GO:0008152)	4926	413	261.57	+	1.58	2.86E-21
+single-organism process (GO:0044699)	8039	661	426.87	+	1.55	2.82E-43
+cellular process (GO:0009987)	7048	579	374.25	+	1.55	9.21E-34
+nitrogen compound metabolic process (GO:0006807)	3768	307	200.08	+	1.53	3.78E-12
+macromolecule metabolic process (GO:0043170)	3433	278	182.29	+	1.53	3.20E-10
+cellular macromolecule metabolic process (GO:0044260)	2953	234	156.80	+	1.49	4.34E-07
+organonitrogen compound metabolic process (GO:1901564)	2527	195	134.18	+	1.45	1.52E-04
+protein metabolic process (GO:0019538)	2061	159	109.44	+	1.45	3.22E-03
+biological_process (GO:0008150)	11145	840	591.80	+	1.42	5.79E-52
+biological regulation (GO:0065007)	4918	359	261.15	+	1.37	2.84E-08
+regulation of biological process (GO:0050789)	4232	297	224.72	+	1.32	2.25E-04
+Unclassified (UNCLASSIFIED)	9307	246	494.20	-	.50	0.00E00
+neurological system process (GO:0050877)	856	9	45.45	-	 < 0.2	6.14E-08
+G-protein coupled receptor signaling pathway (GO:0007186)	781	8	41.47	-	 < 0.2	3.44E-07
+sensory perception (GO:0007600)	800	6	42.48	-	 < 0.2	4.03E-09
+detection of stimulus involved in sensory perception (GO:0050906)	588	3	31.22	-	 < 0.2	2.39E-07
+detection of stimulus (GO:0051606)	615	3	32.66	-	 < 0.2	6.23E-08
+sensory perception of chemical stimulus (GO:0007606)	773	3	41.05	-	 < 0.2	2.10E-11
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	281	1	14.92	-	 < 0.2	1.09E-02
+sensory perception of smell (GO:0007608)	290	1	15.40	-	 < 0.2	6.89E-03
+detection of chemical stimulus involved in sensory perception (GO:0050907)	582	2	30.90	-	 < 0.2	2.94E-08
+detection of chemical stimulus (GO:0009593)	588	2	31.22	-	 < 0.2	2.16E-08
